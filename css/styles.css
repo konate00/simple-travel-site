@@ -1,5 +1,22 @@
 .image img {
     width: 100px;
     height: 100px;
-    border-radius: 20%;
+    border-radius: 60%;
+}
+.name {
+    background-color: orange;
+}
+.email {
+    background-color: white;
+}
+.phone {
+    background-color: green;
+}
+table {
+    background-color: aqu;
+    border: 2px solid green;
+}
+table, tr, th, td {
+    border : 1px solid black;
+    padding: 10px;
 }
